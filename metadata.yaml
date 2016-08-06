@@ -1,0 +1,39 @@
+_repo: The-House-of-Cobwebs-and-Other-Stories_11603
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Seccombe, Thomas
+    birthdate: 1866
+    deathdate: 1923
+    gutenberg_agent_id: '7999'
+    url: http://www.gutenberg.org/2009/agents/7999
+creator:
+  author:
+    agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: 'The work of George Gissing : An introductory survey -- The house
+  of cobwebs -- A capitalist -- Christopherson -- Humplebee -- The scrupulous father
+  -- A poor gentleman -- Miss Rodney''s leisure -- A charming family -- A daughter
+  of the lodge -- The riding-whip -- Fate and the apothecary -- Topham''s chance --
+  A lodger in maze pond -- The salt of the earth -- The pig and whistle.'
+title: The House of Cobwebs and Other Stories
+url: http://www.gutenberg.org/ebooks/11603
